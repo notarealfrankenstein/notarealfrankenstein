@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Franklin
+- 👀 I’m interested in learning computer science
+- 🌱 I’m currently learning Harvard's CS50x
+- 💞️ I’m looking to collaborate on anyone
